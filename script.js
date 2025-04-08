@@ -1,8 +1,8 @@
 //1. Declară variabile numite țară, continent și populație și atribuie-le valori conform propriei tale țări (populația în milioane).
 
-const country= 'Mexic';
-const continent= 'America de Nord';
-let population='129'; //in milioane :P
+const country= "Mexic";
+const continent= "America de Nord";
+let population=129; //in milioane :P
 
 //2. Afișează valorile lor în consolă.
 
@@ -41,12 +41,12 @@ population++;
 console.log(population);
 
 //11. Finlanda are o populație de 6 milioane. Are țara ta mai mulți oameni decât Finlanda?
-let Finlandapopulation ="6";
+let Finlandapopulation =6;
 console.log(population>Finlandapopulation, " Mexic are o populatie mai mare");
 
 //12. Populația medie a unei țări este de 33 de milioane de oameni. Are țara ta mai puțini oameni decât o țară medie?
 
-let populatiemedie="33";
+let populatiemedie=33;
 console.log(population>populatiemedie, "Mexic are o populatie mai mare ca populatia medie");
 
 //13. Pe baza variabilelor pe care le-ați creat, creați o nouă variabilă descriere care conține un șir de caractere cu acest format: 'Portugalia este în Europa, iar cei 11 milioane de oameni ai săi vorbesc portugheză'.
